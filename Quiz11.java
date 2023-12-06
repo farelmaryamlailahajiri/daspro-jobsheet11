@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Random;
-public class Quiz {
+public class Quiz11 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         Random rand = new Random();
